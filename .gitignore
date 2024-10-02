@@ -1,1 +1,13 @@
+# Ignore the .idea folder
 .idea/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+*.env
+
+# Ignore other temporary files
+*.log
